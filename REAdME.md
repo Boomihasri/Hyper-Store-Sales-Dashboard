@@ -77,5 +77,3 @@ The goal of this project is to analyze sales data to uncover trends, patterns, a
 
 
 This project is a comprehensive journey through IT budget analysis and forecasting using Power BI. It offers a rich set of visualizations, interactive dashboards, and advanced features for effective data-driven decision-making.
-
-Feel free to use, adapt, and contribute to this project for mutual learning and improvement.
